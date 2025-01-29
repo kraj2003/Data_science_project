@@ -8,7 +8,7 @@ logging.basicConfig(format='%(asctime)s,%(msecs)03d %(name)s %(levelname)s %(mes
                     datefmt='%Y-%m-%d %H:%M:%S',
                     level=logging.DEBUG)
 
-project_name="Data science Project"
+project_name="data_science"
 
 list_of_files=[
     ".github/workflows/.gitkeep",
